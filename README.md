@@ -48,8 +48,7 @@
 ## 📫 Connect with Me
 
 - 📧 Email: shashankbalagavi20@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shashankbalagavi)  
-- 🔍 [Resume](#) *(optional link if hosted online)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shashankbalagavi) 
 
 ---
 
